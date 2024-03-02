@@ -104,5 +104,3 @@ app.put('/change-password/', async (request, response) => {
 
 module.exports = app
 
-https://github.com/udaykirandhage/ApiError.git
-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
