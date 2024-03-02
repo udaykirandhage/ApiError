@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Authentication
 
 Given an `app.js` file and a database file `userData.db` consisting of a  table `user`.
@@ -214,3 +215,6 @@ Use `npm install` to install the packages.
 **Export the express instance using the default export syntax.**
 
 **Use Common JS module syntax.**
+=======
+# ApiError
+>>>>>>> origin/main
